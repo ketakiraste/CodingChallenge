@@ -2,6 +2,13 @@ package com.java.coding;
 
 import java.util.Arrays;
 
+/**
+* Sort the following list in numeric order 
+* Sorted ascending by using bubble sort, quick sort and Java.utils sort API
+* @author  Ketaki Raste
+* @12/12/2016 
+*/
+
 public class CodingChallengeSort {
 	
 	public static void main(String args[]){
